@@ -1,6 +1,6 @@
 *{
     box-sizing: border-box;
-    }
+}
 
     @import url("normalize.css");
 
@@ -11,7 +11,6 @@ html {
     letter-spacing: 5px;
     color: white
 }
-
 
 body {
     width: 600px;
@@ -38,6 +37,7 @@ h1 {
 
 p {
     color: white;
+    background-color: aqua;
     font-family: Arial, Helvetica, sans-serif;
     font-style: italic;
     font-weight: 100;
